@@ -32,4 +32,31 @@ left(100)
 forward(160)
 end_fill()
 
+penup()
+goto(20, 130)
+pendown()
+right(230)
+forward(40)
+right(90)
+forward(40)
+right(90)
+forward(40)
+right(90)
+forward(40)
+
+penup()
+goto(140, 130)
+pendown()
+right(90)
+forward(40)
+right(90)
+forward(40)
+right(90)
+forward(40)
+right(90)
+forward(40)
+
+
+
+
 exitonclick()
