@@ -1,6 +1,7 @@
 from turtle import *
 
 
+speed(0)
 
 forward(300)
 left(90)
