@@ -1,7 +1,7 @@
-age_brother = 11
+age_brother = 11 
 age_mom = 40
 age_dad = 41
-print("mom " + str(age_mom))
+print("mom " + str(age_mom)) #gardavqmenit tipi (type)
 print("dad " + str(age_dad))
 print("brother " + str(age_brother))
 
