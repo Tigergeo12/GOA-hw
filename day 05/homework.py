@@ -21,4 +21,5 @@ elif operation == 5:
      elif operation == 5:
           num1 < num2 
           print("num2 > num1 ")
+          #else print("wrong operation ") 
 
